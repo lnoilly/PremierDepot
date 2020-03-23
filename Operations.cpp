@@ -17,3 +17,16 @@ int soustraction(int a, int b)
 	
 	return resultat;
 }
+int multiplication (int a,int b)
+{
+	int resu;
+	resu = a*b;
+return resu ;
+}
+
+int division (int a, int b)
+{
+	int resu;
+	resu=a/b;
+return resu;
+}
