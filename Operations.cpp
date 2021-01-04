@@ -28,5 +28,8 @@ int division (int a, int b)
 {
 	int resu;
 	resu=a/b;
+	
+	
+	COUCOU
 return resu;
 }
