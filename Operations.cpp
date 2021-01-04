@@ -31,6 +31,5 @@ int division (int a, int b)
 	
 	
 	COUCOU
-		salut youtubve
 return resu;
 }
